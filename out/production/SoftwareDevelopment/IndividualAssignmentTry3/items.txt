@@ -1,0 +1,21 @@
+3
+1
+Sword
+30
+This is a replica of x caliber. It may be a replica but it is
+sharp and dangerous. This Sword add +30 points of attack damage.
+________
+4
+-2
+Helmet
+10
+This is a Helmet that will keep you protect but not make you invincible
+to damage. This helmets add +10 points of protection to your health.
+________
+6
+-1
+MedKit
+20
+A vile with bright green liquid is for a quick heal to get
+out of rough situations. This will heal you up to 20 points.
+________

@@ -1,0 +1,5 @@
+1
+Puzzle 1
+Guess a random number between 0 and 20.
+Hint: One and two do not equal three but it equals...
+________

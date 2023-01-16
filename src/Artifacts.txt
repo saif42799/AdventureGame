@@ -1,0 +1,48 @@
+Dagger
+A very short knife that is very agile in close range and lands more hits but less powerful
+2 3 4
+3
+Long Sword
+A heavy sword that looks powerful but slow in the close range
+8 9 16 18
+6
+Steel Helmet
+More protection from the monster.
+18 7
+10
+Steel Chest
+Some protection for your chest.
+12 14
+12
+Steel Boots
+Some protection for your feet.
+2 11 13
+7
+Health potion
+Restore some of your health
+9 12
+2
+Apple
+Return 3+ health back to the player.
+2 3 4 15 16 18
+3
+Shield
+A barrier between you and the monsters.
+7 8
+7
+Rotten apples
+Take away health.
+6 14 17
+3
+Key
+A key for a locked door.
+12 9
+Unlocks rooms
+Teleportation Consumable
+This 1 consumable allows the player to teleport
+8 9 16 18
+0
+Dragon Head
+head from a behead dragon
+19
+0

@@ -1,0 +1,90 @@
+1
+Room 1
+You are standing in room 1.
+It is a brick room with nothing
+in it. There is a door facing East.
+________
+North     1
+East      2
+South     1
+West      1
+2
+Outside Hall 1
+You are standing outside of room 1. There are three
+rooms beside you. Room 1 is West and Room 2 is North
+and Room 3 is South.Down the hall(East) has three more rooms.
+________
+North     3
+East      5
+South     4
+West      1
+3
+Room 2
+You are standing in room 2. It
+is a wood room with dragons in
+it.There is door facing South.
+________
+North     3
+East      3
+South     2
+West      3
+4
+Room 3
+You are standing in room 3. It
+is a metal room with armor in
+it. There is door facing North.
+________
+North     2
+East      3
+South     3
+West      3
+5
+Outside Hall 2
+You are standing outside of room room 6. There are three
+rooms beside you. Room 4 is North and Room 5 is South
+and Room 6 is East. Down the hall(West) has three more rooms.
+________
+North     6
+East      8
+South     7
+West      2
+6
+Room 4
+You are standing in room 4. It
+is a paper room with drawings in
+it. There is door facing South.
+________
+North     6
+East      6
+South     5
+West      6
+7
+Room 5
+You are standing in room 5. It
+is a stone room with asteroids in
+it. There is door facing North.
+________
+North     5
+East      7
+South     7
+West      7
+8
+Room 6
+You are standing in room 6. It
+is a jade room with tigers in
+it. There is door facing West.
+________
+North     8
+East      8
+South     8
+West      5
+9
+Blank
+eeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeee
+eeeeeeeeeeeeeeeeeeeeeeeeeeeee
+________
+North     0
+East      0
+South     0
+West      0
